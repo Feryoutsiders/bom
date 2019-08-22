@@ -1,1 +1,1 @@
-# bom
+# cok.sh
